@@ -69,8 +69,8 @@ fBodyBodyGyroMag Axial Signal (Freq)
 - 530 fBodyBodyGyroMag: Mean of Std Dev
 
 fBodyBodyGyroJerkMag Axial Signal (Freq)
-	- 542 fBodyBodyGyroJerkMag: Mean
-	- 543 fBodyBodyGyroJerkMag: Mean of Std Dev
+- 542 fBodyBodyGyroJerkMag: Mean
+- 543 fBodyBodyGyroJerkMag: Mean of Std Dev
 
 
 

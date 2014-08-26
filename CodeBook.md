@@ -2,8 +2,7 @@
 CODEBOOK
 
 This codebook details the column numbers of the data utilized by the analysis.
-It corresponds to the mean and std data of of several measurements taken from the
-UCI HAR Dataset.
+It corresponds to the mean and std data of of several measurements taken from the UCI HAR Dataset.
 ------------------------------------------------------------------------
 tBodyAcc XYZ Axial Signals (time)
 - 1:3 tBodyAcc : Mean of X Y Z

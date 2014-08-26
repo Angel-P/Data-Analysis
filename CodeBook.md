@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
+
 CODEBOOK
 This codebook details the column numbers of the data utilized by the analysis.
 It corresponds to the mean and std data of of several measurements taken from the
